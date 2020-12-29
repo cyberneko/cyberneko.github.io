@@ -1,7 +1,5 @@
 ---
-- name: Security
-  tag: SEC
-- name: Privacy
-  tag: PRIV
-- name: Crypto
-  tag: CRYPTO
+- name: 会议
+  tag: meet
+- name: 比赛
+  tag: game
